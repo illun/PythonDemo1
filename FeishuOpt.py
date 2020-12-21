@@ -5,16 +5,12 @@ import requests
 
 
 #测试
-#url = "https://open.feishu.cn/open-apis/bot/hook/a95a24f05cbc4cdb8b23256921116f66"
+#url = "https://open.feishu.cn/open-apis/bot/hook/a95a24f05cbc4cdb8b2325692******"
 
 #正式MTL测试天团
-url = "https://open.feishu.cn/open-apis/bot/hook/137bf99c93274ccfa88ce0ce44963998"
-#获取tenant_access_token
-token_url = "https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal/"
-#发送图片
-image_url = "https://open.feishu.cn/open-apis/message/v4/send/"
+url = "https://open.feishu.cn/open-apis/bot/hook/137bf99c93274ccfa88ce0ce4******"
 #测试2
-# url ="https://open.feishu.cn/open-apis/bot/v2/hook/ddce83fc-1cad-40fa-a1d8-2e6328ab0bab"
+# url ="https://open.feishu.cn/open-apis/bot/v2/hook/ddce83fc-1cad-40fa-a1d8-2e632*****"
 
 
 class FeishuOpt:
